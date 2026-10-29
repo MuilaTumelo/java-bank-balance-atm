@@ -1,0 +1,27 @@
+# MUILA ATM - Java Project
+
+## About
+This is my first Java programming project. It simulates a simple ATM system using Java.
+
+## Features
+- PIN verification
+- View available balance
+- Deposit money with a minimum deposit of R50
+- Withdraw money
+- Display remaining balance after withdrawal
+- Limit incorrect PIN attempts
+
+## Technologies Used
+- Java
+- Scanner for user input
+- If/else statements
+- While loops
+- Variables and arithmetic operations
+
+## How to Run
+1. Open the project in NetBeans.
+2. Run `BankBalance.java`.
+3. Follow the instructions displayed in the console.
+
+## Purpose
+This project is part of my learning journey as an ICT and Application Development student.
